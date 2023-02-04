@@ -1,0 +1,16 @@
+1. First 1st I have created a file and saved by name Phase1 Project.
+2. Then I open this file through VS Code and then created a new file named as Index.html.
+3. Then I use Emmet Abbreviation by pressing shift+! and then new Doc HTML file is created already named as Index.html.
+4.Then I,ve include links one is for CSS in Head tag ie (<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous")
+and second is for JS in Body tag ie (<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>).
+
+4.Then I have created a navbar and for that I have uesd a bootstrap class navbar-expand and for brand name used a class navebar-brand and name is given for that is iCoder and the added the nav-items like Home,About,Topic and Contact US.The nav-item dropdown class is created for topic section and dropdown items are Technology,Web Development,Support and write for us.
+Also we can change the colour of Navbar by using classes like navbar.navbar-dark.bg-dark(class= navbar navbar-dark bg-dark).
+5.Then I added a carousel component of Bootstrap by using class carousel slide, carousel-fade and added images by using css element <img src></img>.I downladed the images from source.Unsplash.
+div element is used along with class carousel inner is used to attach the slides and class carousel item is used for content of each slides.
+6.Then I added three buttons by using Bootstrap class Button.btn.btn-primary(<Button class=btn btn-primary></Button>)and similarly used for btn-danger and btn-success.
+7.Then I have added a Card component of Bootstrap where I added a Card Header,Card Images and Card Body etc.
+8.Then I have created a About.html file for navbar about item.
+9.Inside the navbar,I also created a input type serach bar by using class form-control and just below that added a search button as well.
+10.Also added two more buttons for login and Signup and correspondingly created a login Modal and SignUp Modal as well.
+11.Also Inside a Contact us navbar item added a form section as well that must be filled by users who wants to contact to iCoder.
